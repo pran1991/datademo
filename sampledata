@@ -1,1 +1,2 @@
 create table retaildb
+int id, int number
